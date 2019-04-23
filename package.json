@@ -1,5 +1,5 @@
 {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "name": "react-native-static-error",
     "description": "react native error root sibling pops from top",
     "author": "stokesbga",
@@ -9,7 +9,7 @@
     },
     "license": "MIT",
     "main": "./index.js",
-    "types":"./index.d.ts",
+    "types": "./index.d.ts",
     "keywords": [
         "react-component",
         "react-native",
